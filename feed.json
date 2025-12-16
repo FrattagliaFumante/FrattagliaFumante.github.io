@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Prof Miroballo",
+    "description": "",
+    "home_page_url": "https://frattagliafumante.github.io",
+    "feed_url": "https://frattagliafumante.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Marco Miroballo"
+    },
+    "items": [
+        {
+            "id": "https://frattagliafumante.github.io/prova.html",
+            "url": "https://frattagliafumante.github.io/prova.html",
+            "title": "prova",
+            "summary": "Questo sito è in costruzione",
+            "content_html": "\n  <p>\n    Questo sito è in costruzione\n  </p>",
+            "author": {
+                "name": "Marco Miroballo"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-12-16T16:08:58+01:00",
+            "date_modified": "2025-12-16T16:08:58+01:00"
+        }
+    ]
+}
