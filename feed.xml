@@ -3,7 +3,7 @@
     <title>Prof Miroballo</title>
     <link href="https://frattagliafumante.github.io/feed.xml" rel="self" />
     <link href="https://frattagliafumante.github.io" />
-    <updated>2025-12-17T10:13:36+01:00</updated>
+    <updated>2025-12-17T11:39:00+01:00</updated>
     <author>
         <name>Marco Miroballo</name>
     </author>
@@ -16,24 +16,35 @@
         </author>
         <link href="https://frattagliafumante.github.io/prova.html"/>
         <id>https://frattagliafumante.github.io/prova.html</id>
+        <media:content url="https://frattagliafumante.github.io/media/posts/1/Verifica-primo-quadrimestre.png" medium="image" />
 
         <updated>2025-12-16T16:08:58+01:00</updated>
             <summary type="html">
                 <![CDATA[
-                    https://ic1sanlazzaro.my.canva.site/1dhttps://ic1sanlazzaro.my.canva.site/1ehttps://ic1sanlazzaro.my.canva.site/1fhttps://ic1sanlazzaro.my.canva.site/2dhttps://ic1sanlazzaro.my.canva.site/2ehttps://ic1sanlazzaro.my.canva.site/3e
+                        <img src="https://frattagliafumante.github.io/media/posts/1/Verifica-primo-quadrimestre.png" alt="" />
+                    
+  <p>
+    Benvenuti Maledetti Gnomi alle temutissime verifiche di Natale!!!
+  </p>
+
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://frattagliafumante.github.io/media/posts/1/Verifica-primo-quadrimestre.png" class="type:primaryImage" alt="" /></p>
                 
-    <figure class="post__image post__image--wide">
-      <img loading="lazy" src="https://frattagliafumante.github.io/media/posts/1/Verifica-primo-quadrimestre.png" height="768" width="1024" alt=""  sizes="(max-width: 48em) 100vw, 768px" srcset="https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-xs.png 300w ,https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-sm.png 480w ,https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-md.png 768w">
-      
-    </figure>
+  <p>
+    Benvenuti Maledetti Gnomi alle temutissime verifiche di Natale!!!
+  </p>
+
 
   <ul>
-    <li>https://ic1sanlazzaro.my.canva.site/1d</li><li>https://ic1sanlazzaro.my.canva.site/1e</li><li>https://ic1sanlazzaro.my.canva.site/1f</li><li>https://ic1sanlazzaro.my.canva.site/2d</li><li>https://ic1sanlazzaro.my.canva.site/2e</li><li>https://ic1sanlazzaro.my.canva.site/3e</li>
+    <li><a href="https://ic1sanlazzaro.my.canva.site/1d" target="_blank">1D</a></li><li><a href="https://ic1sanlazzaro.my.canva.site/1e" target="_blank">1E</a></li><li><a href="https://ic1sanlazzaro.my.canva.site/1f" target="_blank">1F</a></li><li><a href="https://ic1sanlazzaro.my.canva.site/2d" target="_blank">2D</a></li><li><a href="https://ic1sanlazzaro.my.canva.site/2e" target="_blank">2E</a></li><li><a href="https://ic1sanlazzaro.my.canva.site/3e" target="_blank">3E</a></li>
   </ul>
+
+  <p>
+    
+  </p>
             ]]>
         </content>
     </entry>
