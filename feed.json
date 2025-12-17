@@ -5,7 +5,7 @@
     "home_page_url": "https://frattagliafumante.github.io",
     "feed_url": "https://frattagliafumante.github.io/feed.json",
     "user_comment": "",
-    "icon": "https://frattagliafumante.github.io/media/website/Header_Hi_Rer_crop.png",
+    "icon": "https://frattagliafumante.github.io/media/website/logo_ff_dark_V3.png",
     "author": {
         "name": "Marco Miroballo"
     },
@@ -13,16 +13,16 @@
         {
             "id": "https://frattagliafumante.github.io/prova.html",
             "url": "https://frattagliafumante.github.io/prova.html",
-            "title": "prova",
-            "summary": "Questo sito è in costruzione",
-            "content_html": "\n  <p>\n    Questo sito è in costruzione\n  </p>",
+            "title": "Verifiche Primo Quadrimestre",
+            "summary": "https://ic1sanlazzaro.my.canva.site/1dhttps://ic1sanlazzaro.my.canva.site/1ehttps://ic1sanlazzaro.my.canva.site/1fhttps://ic1sanlazzaro.my.canva.site/2dhttps://ic1sanlazzaro.my.canva.site/2ehttps://ic1sanlazzaro.my.canva.site/3e",
+            "content_html": "\n    <figure class=\"post__image post__image--wide\">\n      <img loading=\"lazy\" src=\"https://frattagliafumante.github.io/media/posts/1/Verifica-primo-quadrimestre.png\" height=\"768\" width=\"1024\" alt=\"\"  sizes=\"(max-width: 48em) 100vw, 768px\" srcset=\"https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-xs.png 300w ,https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-sm.png 480w ,https://frattagliafumante.github.io/media/posts/1/responsive/Verifica-primo-quadrimestre-md.png 768w\">\n      \n    </figure>\n\n  <ul>\n    <li>https://ic1sanlazzaro.my.canva.site/1d</li><li>https://ic1sanlazzaro.my.canva.site/1e</li><li>https://ic1sanlazzaro.my.canva.site/1f</li><li>https://ic1sanlazzaro.my.canva.site/2d</li><li>https://ic1sanlazzaro.my.canva.site/2e</li><li>https://ic1sanlazzaro.my.canva.site/3e</li>\n  </ul>",
             "author": {
                 "name": "Marco Miroballo"
             },
             "tags": [
             ],
             "date_published": "2025-12-16T16:08:58+01:00",
-            "date_modified": "2025-12-16T16:08:58+01:00"
+            "date_modified": "2025-12-17T10:13:36+01:00"
         }
     ]
 }
